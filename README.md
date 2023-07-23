@@ -22,4 +22,4 @@ QR code component with HTML and CSS.
 - Website - [Ahmed Osama](https://www.https://github.com/ahmedd-osama)   
 - Frontend Mentor - [@ahmedd-osama](https://www.frontendmentor.io/profile/ahmedd-osama)   
 feel free to check out other projects and solutions
-Osama.
+Osama..
